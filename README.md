@@ -1,1 +1,1 @@
-Implementation of Naive Bayes classifiers for Quora insincere question classification using sklearn.
+Quora insincere question classification using Supervised Learning (sklearn) and NLP.
